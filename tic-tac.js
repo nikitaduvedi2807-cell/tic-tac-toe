@@ -53,7 +53,7 @@ const enablebtn=()=>{
 
 }
  const showwinner=(winner)=>{
-    msgcontainer.innerHTML=`congratulations winner is ${winner}`
+    msgcontainer.innerHTML=`Congratulations Winner is ${winner}`
     disablebtn()
  }
 const checkWinner=()=>{
